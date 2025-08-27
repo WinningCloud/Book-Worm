@@ -172,7 +172,7 @@ This project is licensed under the MIT License.
 
 ---
 
-Made with ❤️ by [@farhann\_6389](https://github.com/farhann-6389)
+Made with ❤️ by [@farhann](https://github.com/WinningCloud)
 
 
->>>>>>> d442644220be5dd2ee49ee46c2808389c7b4661b
+
