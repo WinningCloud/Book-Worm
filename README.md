@@ -106,7 +106,14 @@ A full-stack book recommendation app built with **React Native (Expo)** for mobi
 
 ## Screenshots
 
-*Add screenshots of your app here*
+
+![photo_2025-08-27_11-41-14](https://github.com/user-attachments/assets/000b91c5-c8b2-4561-ae7a-e32724b830c8)
+![photo_2025-08-27_11-41-13](https://github.com/user-attachments/assets/cd1f5f34-b457-4e70-93cc-fb02c69b1e8c)
+![photo_2025-08-27_11-41-12](https://github.com/user-attachments/assets/1861f90e-f730-4ac9-bb91-6e76985fd916)
+![photo_2025-08-27_11-41-05](https://github.com/user-attachments/assets/3d136aa9-b038-4440-a175-c6b6beed69f8)
+![photo_2025-08-27_11-41-08](https://github.com/user-attachments/assets/098816c4-4dd8-460f-9076-4e4f9ebd7a4f)
+![photo_2025-08-27_11-41-11](https://github.com/user-attachments/assets/a910c558-b288-469d-8ac1-a407c8dbc57b)
+
 
 ---
 
